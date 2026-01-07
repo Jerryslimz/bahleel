@@ -1,9 +1,13 @@
-# Bahleel - PHP Web Scraping Framework
+<p align="center">
+  <img src=".github/assets/bahleel-banner.jpg" alt="Bahleel - PHP Web Scraping Framework" width="100%">
+</p>
 
-[![Tests](https://github.com/bahleel/bahleel/workflows/Tests/badge.svg)](https://github.com/bahleel/bahleel/actions)
-[![Code Style](https://github.com/bahleel/bahleel/workflows/Code%20Style/badge.svg)](https://github.com/bahleel/bahleel/actions)
-[![Latest Version](https://img.shields.io/github/v/release/bahleel/bahleel)](https://github.com/bahleel/bahleel/releases)
-[![License](https://img.shields.io/github/license/bahleel/bahleel)](LICENSE)
+<p align="center">
+  <a href="https://github.com/bahleel/bahleel/actions"><img src="https://github.com/bahleel/bahleel/workflows/Tests/badge.svg" alt="Tests"></a>
+  <a href="https://github.com/bahleel/bahleel/actions"><img src="https://github.com/bahleel/bahleel/workflows/Code%20Style/badge.svg" alt="Code Style"></a>
+  <a href="https://github.com/bahleel/bahleel/releases"><img src="https://img.shields.io/github/v/release/bahleel/bahleel" alt="Latest Version"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/github/license/bahleel/bahleel" alt="License"></a>
+</p>
 
 ⛏️ **Your complete data mining toolkit for the web.**  
 🕷️ Extract valuable data like a pro miner.  

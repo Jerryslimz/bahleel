@@ -67,6 +67,8 @@ Interactive wizard akan memandu Anda:
 - Field extraction (what to mine)
 
 ### 2. Start the Excavation
+
+```bash
 php bahleel run:spider MySpider
 ```
 

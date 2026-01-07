@@ -1,0 +1,47 @@
+# Dependencies
+/vendor
+
+# IDE
+/.idea
+/.vscode
+/.vagrant
+.DS_Store
+
+# Testing
+.phpunit.result.cache
+/.pest
+
+# Database
+/database/database.sqlite
+
+# Storage
+/storage/logs/*
+!/storage/logs/.gitkeep
+/storage/framework/cache/*
+!/storage/framework/cache/.gitkeep
+/storage/framework/views/*
+!/storage/framework/views/.gitkeep
+
+# Generated spiders, processors, etc (optional - uncomment if you want to track them)
+# /spiders/*
+# /middlewares/*
+# /processors/*
+# /exporters/*
+
+# Exports
+/exports
+*.csv
+*.json
+*.xml
+
+# Environment
+.env
+.env.backup
+
+# Build artifacts
+/builds
+bahleel.phar
+
+# OS
+Thumbs.db
+.DS_Store

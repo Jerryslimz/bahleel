@@ -28,6 +28,9 @@ jobs:
         extensions: dom, curl, libxml, mbstring, zip, pcntl, pdo, sqlite, pdo_sqlite
         coverage: none
 
+    - name: Validate composer.json
+      run: composer validate --strict
+
     - name: Install dependencies
       run: composer install --prefer-dist --no-interaction --no-progress
 
